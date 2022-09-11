@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "simplefolio\\.github"
+		},
+		{
+			"path": "simplefolio\\.parcel-cache"
+		},
+		{
+			"path": "simplefolio\\dist"
+		},
+		{
+			"path": "simplefolio\\examples"
+		},
+		{
+			"path": "simplefolio\\node_modules"
+		},
+		{
+			"path": "simplefolio\\src"
+		}
+	]
+}
